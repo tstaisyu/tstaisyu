@@ -18,7 +18,7 @@ ROS: Foxy Fitzroy
 両側のメインフレームは鉄板から削り出して作りました.  
 カーボンverも作りました.  
 コントローラーは、M5stack GrayにArduinoでコードを書き込み、Cytronのモータードライバを接続しています.  
-([クローラ開発記はこちら](http://stand-alone.sub.jp))  
+([クローラ開発記はこちら](http://stand-alone.sub.jp/myenglishjourney/category/crawler/))  
 
 2021年の11月に製作したミニラジコンカーはこちら  
 [こちらのサイト](https://deviceplus.jp/mc-general/arduino-m5stack-remote-control-car-03/)を参考に、M5stack Grayに超音波センサ、照度近接センサをつないで障害物・段差検知を行っています.  
