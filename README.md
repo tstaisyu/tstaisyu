@@ -7,7 +7,7 @@ Thank you for your coming. I'm a ROS2 developer in Japan.
 
 * 開発環境
 
-OS: ubuntu 20.04.5 LTS 
+OS: ubuntu 20.04.5 LTS   
 ROS: Foxy Fitzroy 
 使用言語: python 
 
