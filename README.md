@@ -47,7 +47,8 @@ Bash
 
 
 2018年4月 個人事業開始  
-2018年5~6月 企業Webサイト制作  
+2018年4~6月 企業Webサイト制作  
+&nbsp;&nbsp;&nbsp;&nbsp;[StringDriver](https://www.stringdriver.jp/)様：ハイエンドギターキャビネットメーカー
 2018年10月 EC事業開始  
 &nbsp;&nbsp;&nbsp;&nbsp;オンライン通販サイトでのサプリメント等小売事業を立ち上げ、現在も運営中  
 
