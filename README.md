@@ -57,4 +57,4 @@ Bash
 ## >> Contact
 If you wish to contact me for some reason, here are the ways to reach me out:
 
-Main >> t_shiba117@outlook.jp
+Mail >> t_shiba117@outlook.jp
