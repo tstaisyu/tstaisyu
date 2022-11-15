@@ -2,14 +2,14 @@
 
 Thank you for your coming. I'm a ROS2 developer in Japan.
 
-* 現在は、ROS2によるロボットのソフトウェア開発をしています
+現在は、ROS2によるロボットのソフトウェア開発をしています
 強化学習による、不確実性の高い動的な環境でも安定して目標達成に向けたロバストな動作を実現する自律制御ロボットの開発を目指しています。
 
-開発環境
+* 開発環境
 
-OS: ubuntu 20.04.5 LTS
-ROS: Foxy Fitzroy
-使用言語: python
+OS: ubuntu 20.04.5 LTS 
+ROS: Foxy Fitzroy 
+使用言語: python 
 
 
 
