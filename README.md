@@ -12,8 +12,7 @@ Thank you for your coming. I'm a ROS2 developer in Japan.
 カメラによる画像認識により、人への追従走行をします.  
   
   
-(開発環境)
-
+(開発環境)  
 OS: ubuntu 20.04.5 LTS   
 ROS: Foxy Fitzroy   
 使用言語: python, C++  
