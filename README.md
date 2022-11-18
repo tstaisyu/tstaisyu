@@ -6,20 +6,20 @@ Thank you for your coming. I'm a ROS2 developer in Japan.
 ゆくゆくは、強化学習による不確実性の高い動的な環境でも、安定して目標達成に向けた動作を実現するロバストな自律制御ロボットの開発を目指しています.
   
   
-* 現在開発中
+# 現在開発中
 
-→　不整地用クローラ：  
+* [不整地用クローラ](https://github.com/tstaisyu/ts_crawler)：  
 人を認識し、追従します.  
   
   
-* 開発環境
+(開発環境)
 
 OS: ubuntu 20.04.5 LTS   
 ROS: Foxy Fitzroy   
 使用言語: python, C++  
   
   
-* 過去の制作
+# 過去の制作
 
 2021年の11~12月に製作したクローラはこちら  
 筐体は秋葉原の店舗で見かけたCuboRexさんのCuGoを参考に、アルミフレームなどの部品を取り寄せて自作しました.  
@@ -35,6 +35,8 @@ ROS: Foxy Fitzroy
 テンプレートを使いたくない、というオーナー様きっての要望を受けて、フルスクラッチでコーディングしました.  
 集客や問い合わせ誘発というよりは、製品スペックの紹介を主とした目的のため、カタログ形式に仕上げてあります.  
   
+
+# About me
   
 * 使用言語
 
@@ -68,7 +70,7 @@ Bash
   
 [Here is the detail](https://tstaisyu.gitbook.io/profile/)
 
-## >> Contact
+# >> Contact
 If you wish to contact me for some reason, here are the ways to reach me out:
 
 Mail >> t_shiba117@outlook.jp
