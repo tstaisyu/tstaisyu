@@ -20,17 +20,17 @@ ROS: Foxy Fitzroy
   
 # 過去の制作
 
-2021年の11~12月に製作したクローラはこちら  
+2021年の11~12月に製作したクローラは[こちら](https://github.com/tstaisyu/crawler_control_by_M5Stack_Gray)  
 筐体は秋葉原の店舗で見かけたCuboRexさんのCuGoを参考に、アルミフレームなどの部品を取り寄せて自作しました.  
 両側のメインフレームは鉄板から削り出して作りました.  
 カーボンverも作りました.  
 コントローラーは、M5stack GrayにArduinoでコードを書き込み、Cytronのモータードライバを接続しています.  
 ([クローラ開発記はこちら](http://stand-alone.sub.jp/myenglishjourney/category/crawler/))  
 
-2021年の11月に製作したミニラジコンカーはこちら  
+2021年の11月に製作したミニラジコンカーは[こちら](https://github.com/tstaisyu/Mini-Autocar_by_M5Stack_Gray)  
 [こちらのサイト](https://deviceplus.jp/mc-general/arduino-m5stack-remote-control-car-03/)を参考に、M5stack Grayに超音波センサ、照度近接センサをつないで障害物・段差検知を行っています.  
 
-2018年の6月に制作した企業ウェブページはこちら  
+2018年の6月に制作した企業ウェブページは[こちら](https://www.stringdriver.jp/)  
 テンプレートを使いたくない、というオーナー様きっての要望を受けて、フルスクラッチでコーディングしました.  
 集客や問い合わせ誘発というよりは、製品スペックの紹介を主とした目的のため、カタログ形式に仕上げてあります.  
   
