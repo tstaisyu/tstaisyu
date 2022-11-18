@@ -8,8 +8,8 @@ Thank you for your coming. I'm a ROS2 developer in Japan.
   
 # 現在開発中
 
-* [不整地用クローラ](https://github.com/tstaisyu/ts_crawler)：  
-人を認識し、追従します.  
+* [自律制御クローラ](https://github.com/tstaisyu/ts_crawler)：  
+カメラによる画像認識により、人への追従走行をします.  
   
   
 (開発環境)
