@@ -1,4 +1,4 @@
-# >> Hi, I'm Taisyu!
+# Hi, I'm Taisyu!
 
 Thank you for your coming. I'm a ROS2 developer in Japan.
 
@@ -37,7 +37,7 @@ Arduino
 [Here is the detail](https://tstaisyu.gitbook.io/profile/)
 
 
-# >> Contact
+# Contact
 If you wish to contact me for some reason, here are the ways to reach me out:
 
 Mail >> t_shiba117@outlook.jp
