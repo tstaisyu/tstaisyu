@@ -2,52 +2,40 @@
 
 Thank you for your coming. I'm a ROS2 developer in Japan.
 
-現在は、ROS2によるロボット制御用のソフトウェア開発をしています.   
-ゆくゆくは、強化学習による不確実性の高い動的な環境でも、安定して目標達成に向けた動作を実現するロバストな自律制御ロボットの開発を目指しています.
-  
-  
-# 現在開発中
+ 
+# Ongoing Projects
 
-* [自律制御クローラ](https://github.com/tstaisyu/crawler_teleop)：  
-カメラによる画像認識により、人への追従走行をします.  
+* [Autonomous control crawler](https://github.com/tstaisyu/crawler_teleop)  
+It uses image recognition using a camera to follow people. 
   
-  
-(開発環境)  
+(Development environment)  
 OS: ubuntu 22.04.3 LTS   
 ROS: Humble Hawksbill   
-使用言語: C++, python  
+Language: C++, python  
   
   
-# 過去の制作
+# Works
 
-2021年の11~12月に製作したクローラは[こちら](https://github.com/tstaisyu/crawler_control_by_M5Stack_Gray)  
-筐体は秋葉原の店舗で見かけたCuboRexさんのCuGoを参考に、アルミフレームなどの部品を取り寄せて自作しました.  
-両側のメインフレームは鉄板から削り出して作りました.  
-カーボンverも作りました.  
-コントローラーは、M5stack GrayにArduinoでコードを書き込み、Cytronのモータードライバを接続しています.  
-([クローラ開発記はこちら](http://stand-alone.sub.jp/myenglishjourney/category/crawler/))  
-
-2021年の11月に製作したミニラジコンカーは[こちら](https://github.com/tstaisyu/Mini-Autocar_by_M5Stack_Gray)  
-[こちらのサイト](https://deviceplus.jp/mc-general/arduino-m5stack-remote-control-car-03/)を参考に、M5stack Grayに超音波センサ、照度近接センサをつないで障害物・段差検知を行っています.  
+・[Crawler by M5Stack Gray](https://github.com/tstaisyu/crawler_control_by_M5Stack_Gray)  
+I ordered parts such as an aluminum frame and made the casing myself, using CuboRex's CuGo as a reference.
+The main frames on both sides were carved from iron plates.
+I also made a CFRP frame type.
+For the controller, I wrote the code using Arduino on M5stack Gray and connected it to a Cytron motor driver.
+  
+・[Mini radio controlled car](https://github.com/tstaisyu/Mini-Autocar_by_M5Stack_Gray)
+Obstacles and steps are detected by connecting an ultrasonic sensor and an illuminance proximity sensor to the M5stack Gray. [Reference](https://deviceplus.jp/mc-general/arduino-m5stack-remote-control-car-03/)
   
 
 # About me
   
-* 使用言語
-
-Arduino  
+* Language
 C++  
 Python  
 Bash  
-  
-  
-* 経歴
-
-2021年10月 ロボットの研究開発を開始  
-2022年10月 ROSによるソフトウェア開発を開始  
-  
+Arduino  
   
 [Here is the detail](https://tstaisyu.gitbook.io/profile/)
+
 
 # >> Contact
 If you wish to contact me for some reason, here are the ways to reach me out:
